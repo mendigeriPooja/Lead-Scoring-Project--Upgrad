@@ -28,3 +28,8 @@ Deliverables
 Jupyter Notebook – Model implementation.
 Presentation (PPT) – Summary of findings.
 Report – Key insights and recommendations.
+
+We extend our gratitude to:
+
+Our project partners and collaborators 
+The faculty and mentors at IIIT Bangalore and UpGrad 
