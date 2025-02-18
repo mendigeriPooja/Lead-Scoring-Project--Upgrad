@@ -1,5 +1,7 @@
 # Lead-Scoring-Project--Upgrad
 Lead Scoring Model for X Education
+
+
 Overview
 X Education aims to improve its lead conversion rate from 30% to 80% by identifying high-potential leads. This project develops a logistic regression model to assign lead scores (0-100) based on conversion likelihood.
 
